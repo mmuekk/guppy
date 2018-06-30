@@ -47,5 +47,5 @@ Yes!  See the [contributors page](https://daniel3735928559.github.io/guppy/site/
 for an idea of where the project is heading.
 
 ## License
-
+ 
 Guppy is licensed under the [MIT License](http://opensource.org/licenses/MIT).
